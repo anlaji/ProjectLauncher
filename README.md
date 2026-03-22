@@ -10,6 +10,13 @@ ProjectLauncher es un launcher interactivo para abrir múltiples subproyectos qu
 - IDEs instaladas (PyCharm, IntelliJ, VS Code)  
 - Dependencias Python:
 
-```bash
-pip install python-dotenv
+## APPDATA
+```
+mkdir "%APPDATA%\ProjectLauncher"
+copy projects.json "%APPDATA%\ProjectLauncher\"
+copy .env "%APPDATA%\ProjectLauncher\"
+```
+C:\Users\...\AppData\Roaming\ProjectLauncher\
+  projects.json
+  .env
 
