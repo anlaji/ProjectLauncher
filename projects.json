@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Python",
+    "path": "C:\\Users\\${USER_FOLDER}\\PyCharmMiscProjects",
+    "ide": "pycharm"
+  },
+  {
+    "name": "Java",
+    "path": "C:\\Users\\${USER_FOLDER}\\IdeaProjects",
+    "ide": "idea"
+  },
+  {
+    "name": "Frontend",
+    "path": "C:\\Users\\${USER_FOLDER}\\FrontendProjects",
+    "ide": "vscode"
+  }
+]
